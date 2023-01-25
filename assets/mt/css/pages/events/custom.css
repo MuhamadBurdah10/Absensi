@@ -1,0 +1,49 @@
+.event-caption {
+    font-weight:100;
+    letter-spacing: 5px;
+}
+
+.event {
+    box-shadow: rgb(0 0 0 / 33%) 0px 1px 3px 0px;
+}
+
+.event-image {
+    height:170px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+.event-image:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.event-title {
+    height: 50px;
+}
+
+.event-title p {
+    font-size: 18px;
+    display:-webkit-box;
+    text-overflow:ellipsis;
+    -webkit-line-clamp:1;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+}
+
+.row-event {
+    margin-top: 90px;
+    margin-left:180px;
+    margin-right:180px;
+}
+
+.event-link {
+    color:inherit;
+}
+
+.event-column {
+    padding-right: 0px;
+    padding-left: 10px;
+}

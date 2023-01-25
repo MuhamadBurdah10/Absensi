@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+.banner {
+    padding-right: 64px;
+}
+
+.banner span {
+    font-size: 64px !important;
+    font-weight: 300 !important;
+    float: right;
+}
+
+.dealers-caption {
+    font-weight: 100;
+    letter-spacing: 5px;
+}
+
+.dealers-country {
+    padding: 30px 0;
+    letter-spacing: 3px;
+}
+
+.contact {
+    color: #555;
+}
+
+.contact:hover {
+    color: #003056;
+}
+
+.sales .btn-primary {
+    background-color: #003056;
+    border: none;
+}
+
+.sales .btn-primary:hover {
+    background-color: #00437a;
+    border: none;
+}

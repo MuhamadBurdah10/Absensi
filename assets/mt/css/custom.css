@@ -1,0 +1,16 @@
+.form-group {
+    margin-bottom: 10px !important; 
+}
+
+.image-preview {
+    width: 300px;
+}
+
+.paralax-custom {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 535px;
+    /* cover */
+}

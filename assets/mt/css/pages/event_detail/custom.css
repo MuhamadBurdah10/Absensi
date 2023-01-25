@@ -1,0 +1,35 @@
+.row-event-detail {
+    margin-top: 40px;
+    margin-left:180px;
+    margin-right:180px;
+}
+
+.event-detail-column {
+    padding-right: 0px;
+    padding-left: 10px;
+}
+
+.event-detail-link {
+    color:inherit;
+}
+
+.event-detail {
+    box-shadow: rgb(0 0 0 / 33%) 0px 1px 3px 0px;
+}
+
+.event-detail-image {
+    height:170px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+.event-detail-image:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.event-detail-title {
+    height: 50px;
+}
